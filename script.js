@@ -1,3 +1,9 @@
+var _ = require('lodash');
+
+// var array = [1,2,3,4,5,6,7];
+// console.log('answer:', _.without(array,3));
+//need to update bundle.js file  browserify script.js > bundle.js
+
 var css = document.querySelector("h3");
 var body = document.getElementById("gradient");
 var color1 = document.querySelector(".color1");

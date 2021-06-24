@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/victorinoxs/Background-generator/issues"
   },
-  "homepage": "https://github.com/victorinoxs/Background-generator#readme"
+  "homepage": "https://github.com/victorinoxs/Background-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
